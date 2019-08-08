@@ -1,0 +1,21 @@
+.login-container {
+    width: 100vw;
+    height: 100vh;
+    display: grid;
+}
+.login-box {
+    margin: auto auto;
+    background: #fff;
+    box-shadow: 0 0 6px rgba(0, 0, 0, 0.3);
+    padding: 1rem;
+    border-radius: 8px;
+    min-width: 8rem;
+    min-height: 12rem;
+    text-align: center;
+}
+.login-header {
+    font-size: 1.3em;
+    width: 100%;
+    margin-bottom: 1rem;
+    font-weight: 600;
+}
